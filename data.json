@@ -1,4 +1,4 @@
-results: [
+{ results: [
    {
       "name":"Борисов",
       "dateOfFoundation":"1102",
@@ -102,3 +102,4 @@ results: [
       "population":17.6
    }
 ]
+}
