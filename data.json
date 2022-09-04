@@ -1,0 +1,104 @@
+results: [
+   {
+      "name":"Борисов",
+      "dateOfFoundation":"1102",
+      "region":"Борисовский[~ 2]",
+      "population":137.7
+   },
+   {
+      "name":"Молодечно",
+      "dateOfFoundation":"1388",
+      "region":"Молодечненский[~ 2]",
+      "population":90.1
+   },
+   {
+      "name":"Марьина Горка",
+      "dateOfFoundation":"XVI век",
+      "region":"Пуховичский[~ 2]",
+      "population":20.4
+   },
+   {
+      "name":"Столбцы",
+      "dateOfFoundation":"1511",
+      "region":"Столбцовский[~ 2]",
+      "population":17.5
+   },
+   {
+      "name":"Фаниполь",
+      "dateOfFoundation":"1856",
+      "region":"Дзержинский",
+      "population":17.5
+   },
+   {
+      "name":"Несвиж",
+      "dateOfFoundation":"1223",
+      "region":"Несвижский[~ 2]",
+      "population":15.8
+   },
+   {
+      "name":"Любань",
+      "dateOfFoundation":"1566",
+      "region":"Любанский[~ 2]",
+      "population":11.5
+   },
+   {
+      "name":"Узда",
+      "dateOfFoundation":"1450",
+      "region":"Узденский[~ 2]",
+      "population":10.7
+   },
+   {
+      "name":"Копыль",
+      "dateOfFoundation":"1006",
+      "region":"Копыльский[~ 2]",
+      "population":10.2
+   },
+   {
+      "name":"Воложин",
+      "dateOfFoundation":"XIV век",
+      "region":"Воложинский[~ 2]",
+      "population":10
+   },
+   {
+      "name":"Крупки",
+      "dateOfFoundation":"1575",
+      "region":"Крупский[~ 2]",
+      "population":8.5
+   },
+   {
+      "Название":"Березино",
+      "dateOfFoundation":"1501",
+      "region":"Березинский[~ 2]",
+      "population":11.5
+   },
+   {
+      "name":"Жодино",
+      "dateOfFoundation":"1643",
+      "region":"Смолевичский[~ 3]",
+      "population":64.3
+   },
+   {
+      "name":"Вилейка",
+      "dateOfFoundation":"1460",
+      "region":"Вилейский[~ 2]",
+      "population":27
+   },
+   {
+      "name":"Червень",
+      "dateOfFoundation":"1387",
+      "region":"Червенский[~ 2]",
+      "population":10.6
+   },
+   {
+      "name":"Старые Дороги",
+      "dateOfFoundation":"1524",
+      "region":"Стародорожский[~ 2]",
+      "population":11.1
+   },
+   {
+      "name":"Заславль",
+      "dateOfFoundation":"985",
+      "region":"Минский",
+      "population":17.6
+   }
+]
